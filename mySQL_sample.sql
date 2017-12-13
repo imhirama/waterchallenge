@@ -96,7 +96,7 @@ join region_code_data using(region_code)
 join lga_data using(lga)
 join ward_data using(ward)
 
-INTO OUTFILE 'C:\\ProgramData\\MySQL\\MySQL Server 5.7\\Uploads\\1146.csv' 
+INTO OUTFILE 'C:\\ProgramData\\MySQL\\MySQL Server 5.7\\Uploads\\feature_engineering.csv' 
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
 ESCAPED BY '\\'
