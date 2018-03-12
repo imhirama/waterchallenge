@@ -4,6 +4,6 @@ In this [Driven Data Challenge](https://www.drivendata.org/competitions/7/pump-i
 
 
 ## Repository Contents
-+ **[Challenge Overview Presentation](WaterChallenge_Slides.pdf)**
-+ **[mySQL Sample Code](WaterChallenge_mySQL_sample.sql)**
-+ **[R Jupyter Notebook: Model Building](WaterChallenge_Model_Building.ipynb)**
++ **[WaterChallenge_Slides.pdf](WaterChallenge_Slides.pdf)** - Presentation describing my process and results from exploring the data and building predictive models.
++ **[WaterChallenge_mySQL_sample.sql](WaterChallenge_mySQL_sample.sql)** - Sample mySQL script created for feature engineering.
++ **[WaterChallenge_Model_Building.ipynb](WaterChallenge_Model_Building.ipynb)** - Jupyter notebook outlining the model building process in R.
