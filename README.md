@@ -1,6 +1,6 @@
 # DrivenData Challenge: Predicting Faulty Water Points in Tanzania
 ## Challenge Summary
-In this [Driven Data Challenge](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table) the objective was to build predictive models to anticipate water pump break downs across Tanzania using data from Taarifa and the Tanzanian Ministry of Water on how pumps are designed, operated, and managed.
+In this [Driven Data Challenge](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table) the objective was to build predictive models to anticipate water pump break downs across Tanzania. The data, provided by the organization Taarifa and the Tanzanian Ministry of Water depicted the functionality of 59,000 pumps and their design, operation, and management.
 
 
 ## Repository Contents
